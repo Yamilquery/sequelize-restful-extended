@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/pjanaya/sequelize-restful-extended.svg?branch=master)](https://travis-ci.org/pjanaya/sequelize-restful-extended)
 
-[This version works with the last version of Sequelize at March, 29, 2015]
+[This version works with the last version of Sequelize at March, 29th, 2015]
 
 A connect module based on a fork of sequelize-restful. Creates a restful API with associations from your Sequelize models and allows you to include parameters like `sort`, `offset`, `limit` and `order`. It also allows more complex operations like data range filters or include WHERE LIKE fields in SELECT operations.
 
